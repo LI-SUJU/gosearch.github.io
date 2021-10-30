@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.058b6502.chunk.css",
+    "main.js": "./static/js/main.89dbd782.chunk.js",
+    "main.js.map": "./static/js/main.89dbd782.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.4cd8586e.js",
+    "runtime-main.js.map": "./static/js/runtime-main.4cd8586e.js.map",
+    "static/js/2.2eea11fe.chunk.js": "./static/js/2.2eea11fe.chunk.js",
+    "static/js/2.2eea11fe.chunk.js.map": "./static/js/2.2eea11fe.chunk.js.map",
+    "static/js/3.655bf52e.chunk.js": "./static/js/3.655bf52e.chunk.js",
+    "static/js/3.655bf52e.chunk.js.map": "./static/js/3.655bf52e.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.058b6502.chunk.css.map": "./static/css/main.058b6502.chunk.css.map",
+    "static/js/2.2eea11fe.chunk.js.LICENSE.txt": "./static/js/2.2eea11fe.chunk.js.LICENSE.txt",
+    "static/media/Logo.css": "./static/media/ZhanKuKuaiLeTi2016XiuDingBan-1.d51c83a5.ttf",
+    "static/media/App.css": "./static/media/patrick-schneider-I4fDK4Fz_vw-unsplash.3b9f23f5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cd8586e.js",
+    "static/js/2.2eea11fe.chunk.js",
+    "static/css/main.058b6502.chunk.css",
+    "static/js/main.89dbd782.chunk.js"
+  ]
+}
